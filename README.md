@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Michael
 
-<!--
-**M-Alkhz/M-Alkhz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Systems Programmer & Security Researcher
+I focus on **low-level C++, Windows Internals, and Reverse Engineering**. I enjoy taking things apart to understand how they work under the hood—then finding ways to make them better.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Focus
+* **Languages:** C++, Java, Python, x86/x64 Assembly
+* **Systems:** Windows API, Manual Memory Management, Multi-threading & Concurrency
+* **Tools:** x64dbg, Interactive Disassembler (IDA Pro), Ghidra
+
+### Contributions
+* **[ScyllaHide (x64dbg)](https://github.com/x64dbg/ScyllaHide):** * Identified and proposed a fix for a **signature-leak** within the `HookLibrary`.
+  * Improved anti-anti-debugging stealth by stripping debug strings and RTTI artifacts from production builds.
+---
